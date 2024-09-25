@@ -81,10 +81,3 @@ if ajuste != 0:
     print(f"Ajuste: R${ajuste:.2f}")
 print(f"Valor final a ser pago: R${valor_final:.2f}")
 
-
-
-
- 
- 
-  
- 
